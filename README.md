@@ -97,3 +97,44 @@ Each project is organized by the day it was completed.
 ├── 04. ...
 │
 └── README.md
+```
+
+---
+
+## 💡 My Goal
+
+The goal of this challenge is to become more confident with Python through **consistent practice and project-based learning**.
+
+I'm focusing on understanding the concepts behind each project rather than simply completing the exercises.
+
+I also want to experiment with the projects, make improvements, and learn from the problems I encounter along the way.
+
+---
+
+## 📈 Progress
+
+**Day 1 / 100** 🐍
+
+This repository will be updated as I continue through the challenge and add new projects.
+
+---
+
+## 🎓 Course
+
+**100 Days of Code: The Complete Python Pro Bootcamp**
+
+Created and taught by **Dr. Angela Yu**.
+
+---
+
+## 🙌 Thanks for Visiting
+
+This repository is a record of my progress as I learn Python, one project at a time.
+
+<div align="center">
+
+**Learn → Build → Experiment → Improve**
+
+Made with 💻 by **Amber Ali Saiyed**
+
+</div>
