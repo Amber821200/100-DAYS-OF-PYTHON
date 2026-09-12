@@ -40,12 +40,12 @@ Although it's a simple project, it introduced me to the basic building blocks I'
 
 ---
 
-## 📚 Course
+## 🙏 Credits
 
 Created while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
 ---
 
-### 👨‍💻 Author
+---
 
-**Amber**
+Created by **Amber** 💻
