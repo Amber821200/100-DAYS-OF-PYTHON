@@ -3,12 +3,7 @@
 
 Welcome to my learning tracker for Angela Yu's **100 Days of Code: The Complete Python Pro Bootcamp**! I am using this repository to document my code, notes, and daily progress.
 
-## 🚀 The Goal
-* Log progress every day.
-* Commit Python files daily.
-* Share my daily wins.
 
----
 
 ## 📅 Daily Log
 
